@@ -45,7 +45,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Added a hover state to links */
 a:hover {
     text-decoration: underline;
 }

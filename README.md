@@ -2,14 +2,19 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Motivation
+- Refactored the webpage's code to provide more structured code by the use of semantic HTML, to improve the websites functionality, and enhance search engine visibility without sacrificing the original appearance of the webpage.
 
-3-5 bullet points
+Purpose
+- The purpose of this project was to address improper coding techniques by implementing clean semantic HTML, DRY coding practices, elevate functionality, and improve acessibility and SEO.
+
+Problems
+- Addressed issues with content organization, image accessibility, and non-semantic HTML coding.
+
+Learnings
+- Learned the importance of accessibility and SEO friendly webpages to make them easy to use and find, best practices for semantic HTML coding, and implementing DRY coding for purposeful content structuring.
+
 
 ## Screenshot
 

@@ -163,14 +163,14 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+/* Changed from .footer to footer to reflect div class > footer change in html */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* Changed from .fotoer to footer to reflect div class > footer change in html */
+footer h2 {
     font-size: 20px;
 }

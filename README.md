@@ -1,13 +1,11 @@
 # Semantic SEO Refactor
 
 ## Description
-
-
 Motivation
-- Refactored the webpage's code to provide more structured code by the use of semantic HTML, to improve the websites functionality, and enhance search engine visibility without sacrificing the original appearance of the webpage.
+- To improve the websites functionality and enhance search engine visibility (SEO) without sacrificing the original appearance of the webpage. This was achieved by refactoring the webpage's code to provide better structure through the use of semantic HTML and other techniques.
 
 Purpose
-- The purpose of this project was to address improper coding techniques by implementing clean semantic HTML, DRY coding practices, elevate functionality, and improve acessibility and SEO.
+- The purpose of this project was to address improper coding techniques by implementing clean semantic HTML, DRY coding practices, elevated functionality, and improving acessibility and SEO.
 
 Problems
 - Addressed issues with content organization, image accessibility, and non-semantic HTML coding.
@@ -17,12 +15,8 @@ Learnings
 
 
 ## Screenshot
+![Screenshot of SEO Refactor](./screenshots/horiseon-social-solutions-inc.png)
 
-<!-- Use snipping tool to grab a screenshot of the page -->
-<!-- Awesome screenshot chrome extension, can take ss of entire page. Resize 600x560 resize proportional. Download image. -->
-<!-- Drag photo over to column from downloads folder, create a new folder call it screenshots, drag image into screenshots, name file all lowercase -->
-
-![Screenshot of SEO refactor](URL IN PARENTHESES) should be in "alt text" ./screenshots/(name of the image)
 
 ## Links
 [Live URL](Link to deployed site)

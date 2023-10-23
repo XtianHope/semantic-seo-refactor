@@ -19,9 +19,4 @@ Learnings
 
 
 ## Links
-[Live URL](Link to deployed site)
-
-When complete
-git add -A
-git commit -m "added README details"
-git push
+[Live URL](https://xtianhope.github.io/semantic-seo-refactor/)
